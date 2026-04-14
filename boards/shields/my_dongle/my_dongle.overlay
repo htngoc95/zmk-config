@@ -1,0 +1,2 @@
+// Dongle acts as a central-only USB bridge — no physical keys or matrix needed.
+// All key events are received from the two peripheral halves via BLE split.
